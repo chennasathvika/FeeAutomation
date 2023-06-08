@@ -1,0 +1,17 @@
+body {
+  font-family: 'Open Sans'
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+padding: 0;
+content: '';
+/* position: fixed; */
+width: 100vw;
+height: 100vh;
+/*background-image: url("ex.jpg");
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;*/
+}
